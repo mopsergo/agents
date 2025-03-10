@@ -17,3 +17,6 @@ package-lock.json
 Pyproject.toml
 Requirements-dev.lock
 requirements.lock
+
+crewai/.env
+browser-use/.env
