@@ -1,0 +1,19 @@
+# python generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# venv
+.venv
+
+src/
+node_modules/
+
+package.json
+package-lock.json
+Pyproject.toml
+Requirements-dev.lock
+requirements.lock
